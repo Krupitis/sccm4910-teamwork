@@ -16,5 +16,5 @@ if __name__ == "__main__":
     print("Hello from tommydavies-byte")  #this is a greeting from me
                                           #this is a test comment
     #this is a greeting from Krupitis
-    print("Hello from Krupitis")
+    print("Hello from Krupitis!")
 
